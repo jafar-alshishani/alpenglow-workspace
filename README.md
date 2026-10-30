@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" width="160" alt="Alpenglow Workspace icon">
+  <img src="images/icon.png" width="120" alt="Alpenglow Workspace icon">
 </p>
 # Alpenglow Workspace
 
@@ -17,12 +17,24 @@ Alpenglow Workspace brings a consistent, distraction-free appearance to the enti
 
 *The soft sunset colors that inspired the theme.*
 
+
 ## Install from source
 
-1. Clone this repository.
-2. Open the folder in Visual Studio Code.
-3. Press `F5` to launch an Extension Development Host.
-4. Select **Alpenglow Workspace** from **Preferences: Color Theme**.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jafar-alshishani/alpenglow-workspace.git
+   ```
+2. Open the project folder in VS Code.
+3. Open the integrated terminal.
+4. Install the packaging tool:
+   ```bash
+   npm install -g @vscode/vsce
+   ```
+5. Package the extension:
+   ```bash
+   vsce package
+   ```
+6. In VS Code, select **Extensions → ... → Install from VSIX...** and choose the generated `.vsix` file.
 
 ## Recommended Font
 
