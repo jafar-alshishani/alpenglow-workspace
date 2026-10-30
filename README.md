@@ -1,11 +1,15 @@
 <p align="center">
   <img src="images/icon.png" width="120" alt="Alpenglow Workspace icon">
 </p>
-# Alpenglow Workspace
 
-A flat, warm charcoal dark theme for Visual Studio Code, inspired by the timeless simplicity of Afterglow.
+<p align="center">
+  A flat, warm charcoal dark theme for Visual Studio Code, inspired by the timeless simplicity of Afterglow.
+</p>
 
-Alpenglow Workspace brings a consistent, distraction-free appearance to the entire VS Code workbench, including the editor, Explorer, tabs, panels, terminal, menus, and notifications.
+<p align="center">
+  Alpenglow Workspace brings a consistent, distraction-free appearance to the entire VS Code workbench, including the editor, Explorer, tabs, panels, terminal, menus, and notifications.
+</p>
+
 
 ## Preview
 
