@@ -52,25 +52,16 @@ Suggested VS Code settings:
 
 ## Palette
 
-<table>
-  <thead>
-    <tr>
-      <th>Role</th>
-      <th>Color Preview</th>
-      <th>Hex Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Workspace background</td><td><img src="images/swatches/2E2E2E.svg" width="48" height="16"></td><td><code>#2E2E2E</code></td></tr>
-    <tr><td>Secondary surfaces</td><td><img src="images/swatches/262626.svg" width="48" height="16"></td><td><code>#262626</code></td></tr>
-    <tr><td>Foreground</td><td><img src="images/swatches/D6D6D6.svg" width="48" height="16"></td><td><code>#D6D6D6</code></td></tr>
-    <tr><td>Orange accent</td><td><img src="images/swatches/CC7833.svg" width="48" height="16"></td><td><code>#CC7833</code></td></tr>
-    <tr><td>Function highlight</td><td><img src="images/swatches/FFC66D.svg" width="48" height="16"></td><td><code>#FFC66D</code></td></tr>
-    <tr><td>Green</td><td><img src="images/swatches/B4C973.svg" width="48" height="16"></td><td><code>#B4C973</code></td></tr>
-    <tr><td>Blue</td><td><img src="images/swatches/6C99BB.svg" width="48" height="16"></td><td><code>#6C99BB</code></td></tr>
-    <tr><td>Selection</td><td><img src="images/swatches/5A647E.svg" width="48" height="16"></td><td><code>#5A647E</code></td></tr>
-  </tbody>
-</table>
+| Role | Color Preview | Hex Code |
+|:---|:---:|:---:|
+| Workspace background | <img src="images/swatches/2E2E2E.png" width="48"> | `#2E2E2E` |
+| Secondary surfaces | <img src="images/swatches/262626.png" width="48"> | `#262626` |
+| Foreground | <img src="images/swatches/D6D6D6.png" width="48"> | `#D6D6D6` |
+| Orange accent | <img src="images/swatches/CC7833.png" width="48"> | `#CC7833` |
+| Function highlight | <img src="images/swatches/FFC66D.png" width="48"> | `#FFC66D` |
+| Green | <img src="images/swatches/B4C973.png" width="48"> | `#B4C973` |
+| Blue | <img src="images/swatches/6C99BB.png" width="48"> | `#6C99BB` |
+| Selection | <img src="images/swatches/5A647E.png" width="48"> | `#5A647E` |
 
 ## Development
 
