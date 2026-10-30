@@ -2,4 +2,5 @@
 .gitignore
 *.code-workspace
 screenshots/**
-images/**
+images/alpenglow-sunset.png
+images/swatches/**
