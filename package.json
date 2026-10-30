@@ -1,0 +1,42 @@
+
+{
+  "name": "alpenglow-workspace",
+  "displayName": "Alpenglow Workspace",
+  "description": "A warm charcoal dark theme bringing the Alpenglow aesthetic to the entire Visual Studio Code workbench.",
+  "version": "1.0.0",
+  "publisher": "jafar-alshishani",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "alpenglow",
+    "afterglow",
+    "dark theme",
+    "charcoal",
+    "sublime text",
+    "workspace"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jafar-alshishani/alpenglow-workspace"
+  },
+  "bugs": {
+    "url": "https://github.com/jafar-alshishani/alpenglow-workspace/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alpenglow Workspace",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alpenglow-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#2E2E2E",
+    "theme": "dark"
+  }
+}
