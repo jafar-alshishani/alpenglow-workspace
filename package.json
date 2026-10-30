@@ -5,6 +5,7 @@
   "description": "A warm charcoal dark theme bringing the Alpenglow aesthetic to the entire Visual Studio Code workbench.",
   "version": "1.0.0",
   "publisher": "jafar-alshishani",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
