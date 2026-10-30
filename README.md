@@ -69,12 +69,13 @@ The theme uses VS Code's native `colors` and `tokenColors` contribution points.
 
 ## Acknowledgements
 
-**[Afterglow](https://github.com/YabataDesign/afterglow-theme)** by **[José María Clemente (@YabataDesign)](https://github.com/YabataDesign)** was my personal theme in Sublime Text for many years. Its flat design, warm colors, and understated elegance have always made it special to me.
+[Afterglow](https://github.com/YabataDesign/afterglow-theme) by [José María Clemente (@YabataDesign)](https://github.com/YabataDesign) was my personal theme in Sublime Text for many years. Its flat design, warm colors, and understated elegance have always made it special to me.
 
-Alpenglow Workspace is my way of bringing that familiar experience to Visual Studio Code, extending its visual philosophy across the entire workspace.
+Alpenglow Workspace also draws inspiration from the [Alpenglow color palette](https://github.com/AlpenglowTheme/alpenglow-theme), particularly the colors featured in its `Alpenglow-markdown.tmTheme` color scheme. The palette was adapted and mapped independently to Visual Studio Code's workbench and syntax highlighting system.
 
-Special appreciation also goes to **[Alpenglow](https://github.com/AlpenglowTheme/alpenglow-theme)**, which carried the Afterglow aesthetic forward.
+My sincere thanks to the creators of both projects for their original work and inspiration.
 
 ## License
 
-See the LICENSE file for licensing information.
+This project is licensed under the [MIT License](LICENSE).
+
