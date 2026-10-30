@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/icon.png" width="160" alt="Alpenglow Workspace icon">
+</p>
 # Alpenglow Workspace
 
 A flat, warm charcoal dark theme for Visual Studio Code, inspired by the timeless simplicity of Afterglow.
