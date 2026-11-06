@@ -71,6 +71,15 @@ Suggested VS Code settings:
 }
 ```
 
+## Themes
+
+The extension contributes two color themes. Choose one from **Preferences: Color Theme**:
+
+- **Alpenglow Workspace**: the standard warm charcoal theme with a `#2E2E2E` background.
+- **Alpenglow Workspace Dimmer**: a darker variant with a `#292728` background.
+
+Both themes use the orange accent `#DA6C4B` for focused inputs and form fields.
+
 ## Palette
 
 | Role | Color Preview | Hex Code |
