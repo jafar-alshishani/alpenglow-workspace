@@ -33,6 +33,11 @@
         "label": "Alpenglow Workspace",
         "uiTheme": "vs-dark",
         "path": "./themes/alpenglow-color-theme.json"
+      },
+      {
+        "label": "Alpenglow Workspace Dimmer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alpenglow-dimmer-color-theme.json"
       }
     ]
   },
