@@ -3,3 +3,5 @@
 *.code-workspace
 screenshots/**
 images/alpenglow-sunset.png
+.claude/**
+*.vsix
