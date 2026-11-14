@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Alpenglow Workspace",
+  "name": "Alpenglow Workspace Dimmer",
   "type": "dark",
   "semanticHighlighting": false,
   "colors": {
